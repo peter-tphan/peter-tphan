@@ -2,7 +2,7 @@
 
 
 ## 📌 About me
-**Junior Data Analyst** based in the UK, focused on turning raw data into clear business insight through practical analysis, reporting, and dashboard storytelling.
+**Data Analyst** based in the UK, focused on turning raw data into clear business insight through practical analysis, reporting, and dashboard storytelling.
 
 I enjoy finding the **why** behind the numbers and translating it into decisions that teams can actually use. My strengths are analytical thinking, stakeholder-friendly communication, and building structured, decision-ready outputs rather than just charts.
 
@@ -54,7 +54,7 @@ This GitHub profile is being built as a practical portfolio of work in:
 - Business-oriented case studies with clear recommendations
 
 ## 🎯 Career focus
-Currently building a portfolio aligned with **Junior Data Analyst**, **Reporting Analyst**, and **BI-focused analyst** opportunities in the UK market.
+Currently building a portfolio aligned with **Data Analyst**, **Reporting Analyst**, and **BI-focused analyst** opportunities in the UK market.
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/peter-tphan/
