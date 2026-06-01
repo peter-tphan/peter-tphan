@@ -1,25 +1,60 @@
-## Hi there 👋
+# Hi thereee, I'm Peter Phan
 
-Junior Data Analyst based in the UK with a focus on SQL, Excel, Power BI, and Python.  
-I enjoy turning raw data into clear insights that support better business decisions.
+## 📌 About me
+**Junior Data Analyst** based in the UK, focused on turning raw data into clear business insight through practical analysis, reporting, and dashboard storytelling.
 
-## About me
-- Interested in data analysis, reporting, dashboards, and business insight
-- Building projects in SQL, Excel, Power BI, and Python
-- Strong attention to detail and a business-focused mindset
-- Currently growing my portfolio for Junior Data Analyst opportunities
+I enjoy finding the **why** behind the numbers and translating it into decisions that teams can actually use. My strengths are analytical thinking, stakeholder-friendly communication, and building structured, decision-ready outputs rather than just charts.
 
-## Tools
-- SQL
-- Excel
-- Power BI
-- Python
-- Tableau
+## What I do
+- Analyze messy or operational data to uncover patterns, risks, and opportunities.
+- Build dashboards and reports that help teams monitor KPIs and act faster.
+- Use structured analysis to connect data findings to business questions, not just technical outputs.
+- Present insights clearly so they are understandable to non-technical stakeholders.
 
-## Featured projects
-- Payment Risk Dashboard (in progress)
-- SQL analysis project (coming soon)
-- Excel / Power BI dashboard project (coming soon)
+## 🛠️  Core toolkit
+### Analytics & BI
+- **SQL:** joins, CTEs, window functions, aggregations, data cleaning, exploratory analysis
+- **Excel:** PivotTables, XLOOKUP, Power Query, Power Pivot, formulas for reporting workflows
+- **Power BI:** data modelling, DAX, dashboard design, KPI reporting, interactive visuals
+- **Python:** Pandas, NumPy, data cleaning, EDA, automation-ready notebooks
+- **Tableau:** dashboard development and visual exploration
+
+### Databases & platforms
+- **Databases:** BigQuery, PostgreSQL, Microsoft SQL Server
+- **Tools:** Jupyter Notebook, Google Colab, VS Code, GitHub
+- **Data work:** ETL foundations, entity-relationship diagrams, structured data modelling
+- **Currently learning:** Snowflake, dbt, stronger end-to-end analytics engineering workflows
+
+### Analytical strengths
+- Data storytelling
+- Statistical analysis
+- Dashboard thinking
+- Business-focused problem solving
+- Clear written communication
+- Detail-oriented review and validation
+
+## 📊 Featured work
+### Payment Risk Dashboard
+Interactive dashboard project focused on receivables risk, payment behaviour, and credit-control review.
+
+**What it shows**
+- Risk-focused KPI monitoring
+- Trend and behaviour analysis
+- Business-facing dashboard layout
+- Clear insight delivery for decision support
+
+**Status:** In progress
+
+## What recruiters can expect here
+This GitHub profile is being built as a practical portfolio of work in:
+- SQL analysis projects
+- Excel and Power BI dashboards
+- Python-based data exploration
+- Business-oriented case studies with clear recommendations
+
+## 🎯 Career focus
+Currently building a portfolio aligned with **Junior Data Analyst**, **Reporting Analyst**, and **BI-focused analyst** opportunities in the UK market.
 
 ## Connect
-- LinkedIn: [add your LinkedIn link here]
+- LinkedIn: https://www.linkedin.com/in/peter-tphan/
+- Email: thach.phanfrowrk@gmail.
