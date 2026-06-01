@@ -58,4 +58,4 @@ Currently building a portfolio aligned with **Data Analyst**, **Reporting Analys
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/peter-tphan/
-- Email: thach.phanfrowrk@gmail.
+- Email: thach.phanforwork@gmail.com
