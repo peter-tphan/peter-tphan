@@ -1,5 +1,6 @@
 # Hi thereee, I'm Peter Phan
 
+
 ## 📌 About me
 **Junior Data Analyst** based in the UK, focused on turning raw data into clear business insight through practical analysis, reporting, and dashboard storytelling.
 
