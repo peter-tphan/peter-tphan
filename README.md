@@ -15,14 +15,14 @@ I enjoy finding the **why** behind the numbers and translating it into decisions
 ## 🛠️  Core toolkit
 ### Analytics & BI
 - **SQL:** joins, CTEs, window functions, aggregations, data cleaning, exploratory analysis
-- **Excel:** PivotTables, XLOOKUP, Power Query, Power Pivot, formulas for reporting workflows
+- **Excel:** PivotTables, XLOOKUP, Power Query, Power Pivot, nested formulas for reporting workflows
 - **Power BI:** data modelling, DAX, dashboard design, KPI reporting, interactive visuals
-- **Python:** Pandas, NumPy, data cleaning, EDA, automation-ready notebooks
+- **Python:** Pandas, NumPy, Seaborn, EDA, automation-ready notebooks
 - **Tableau:** dashboard development and visual exploration
 
 ### Databases & platforms
 - **Databases:** BigQuery, PostgreSQL, Microsoft SQL Server
-- **Tools:** Jupyter Notebook, Google Colab, VS Code, GitHub
+- **Tools:** Jupyter Notebook, Google AI Studio, NotebookLM, VS Code, GitHub
 - **Data work:** ETL foundations, entity-relationship diagrams, structured data modelling
 - **Currently learning:** Snowflake, dbt, stronger end-to-end analytics engineering workflows
 
