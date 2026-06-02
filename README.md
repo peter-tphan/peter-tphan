@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Peter Phan
 
 
+
 ## 📌 About me
-**Data Analyst** based in the UK, focused on turning raw data into clear business insight through practical analysis, reporting, and dashboard storytelling.
+**Data Analyst** based in the UK, focused on turning raw data into business insight through practical analysis, reporting, and dashboard storytelling.
 
 I enjoy finding the **why** behind the numbers and translating it into decisions that teams can actually use. My strengths are analytical thinking, stakeholder-friendly communication, and building structured, decision-ready outputs rather than just charts.
 
