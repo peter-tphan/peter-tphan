@@ -1,4 +1,4 @@
-# Hi thereee, I'm Peter Phan
+# 👋 Hi there, I'm Peter Phan
 
 
 ## 📌 About me
