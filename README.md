@@ -36,16 +36,12 @@ I enjoy finding the **why** behind the numbers and translating it into decisions
 - Detail-oriented review and validation
 
 ## 📊 Featured work
-### Payment Risk Dashboard
-Interactive dashboard project focused on receivables risk, payment behaviour, and credit-control review.
 
-**What it shows**
-- Risk-focused KPI monitoring
-- Trend and behaviour analysis
-- Business-facing dashboard layout
-- Clear insight delivery for decision support
-
-**Status:** In progress
+| Project | Focus | Tools |
+|---|---|---|
+| [Customer Payment Risk Dashboard](https://github.com/peter-tphan/payment-risk-dashboard) | Receivables risk, payment behaviour, credit-control dashboard | SQL, Power Query, HTML/Chart.js |
+| [eCommerce CX Automation Analysis](https://github.com/peter-tphan/ecommerce-cx-automation-analysis) | Python data audit, KPI validation, dashboard storytelling | Python, Excel, Tableau |
+| [Product Inventory Alert Automation](https://github.com/peter-tphan/product-inventory-alert-automation) | Power Automate workflow, Excel tracker, expiry alert reporting | Power Automate, Excel, Outlook |
 
 ## What recruiters can expect here
 This GitHub profile is being built as a practical portfolio of work in:
